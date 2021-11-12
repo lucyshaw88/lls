@@ -1,0 +1,70 @@
+body {
+
+	background-image:url(image/strange_bullseyes.png);
+
+	color:black;
+	font-family:Helvetica;
+	font-size: 16px;
+	line-height:1.6em;
+	margin:50px;
+}
+
+
+
+.box {
+	background-image: url(file.jpg);
+	background-size: 100%;
+}
+
+
+
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+section{
+border: 50px solid gainsboro;
+background-color: lightgray;
+margin: 50px;
+padding: 50px;
+}
+/*Website Styles */
+*{
+	font-size: 100%;
+	margin: 50;
+	line-height: 1;
+	/*border: 1px solid red; */
+}
+
+h1{
+  background-color:red;
+  color:#555;
+  font-family:"Sofia", Helvetica, sans-serif;
+  font-size:30px;
+  line-height:1.6em;
+  margin:0;
+}
+img {
+	height: 300;
+}
+h1 section {
+	border-bottom: 50px solid black;
+	border: 50px solid red;
+}
+h1 {
+  text-align: center;
+	font-size: 36px;
+	border-bottom: 100px black;
+}
+h2 {
+	font-size: 24px;
+}
